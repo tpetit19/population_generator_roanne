@@ -1,0 +1,65 @@
+Characteristic;Category;Distribution;Dataset;Scope;URL;Index
+Age;15-29 years;17.0;INSEE – RP2022 (POP G2);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42147;1-1
+Age;30-44 years old;20.0;INSEE – RP2022 (POP G2);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42147;2-2
+Age;45-59 years;21.0;INSEE – RP2022 (POP G2);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42147;3-3
+Age;60-74 years;19.0;INSEE – RP2022 (POP G2);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42147;4-4
+Age;75 years and older;13.0;INSEE – RP2022 (POP G2);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42147;5-5
+Gender;Male;47.0;INSEE – RP2022 (POP T3);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42147;1-1
+Gender;Woman;53.0;INSEE – RP2022 (POP T3);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42147;2-2
+Gender;Other;0.0;Non défini par l'INSEE (binaire seulement). Valeur mise à 0 pour sommer à 100.;commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42147;3-3
+Education;No diploma or CEP;28.0;INSEE – RP2022 (FOR T2);département (proxy si non dispo communal);https://www.insee.fr/fr/statistiques/2011101?geo=COM-42147;1-1
+Education;Vocational Certificate;31.0;INSEE – RP2022 (FOR T2);département (proxy si non dispo communal);https://www.insee.fr/fr/statistiques/2011101?geo=COM-42147;2-2
+Education;High School Diploma;17.0;INSEE – RP2022 (FOR T2);département (proxy si non dispo communal);https://www.insee.fr/fr/statistiques/2011101?geo=COM-42147;3-3
+Education;Associate Degree;11.0;INSEE – RP2022 (FOR T2);département (proxy si non dispo communal);https://www.insee.fr/fr/statistiques/2011101?geo=COM-42147;4-4
+Education;Bachelor's degree or higher;13.0;INSEE – RP2022 (FOR T2);département (proxy si non dispo communal);https://www.insee.fr/fr/statistiques/2011101?geo=COM-42147;5-5
+Income;Under 25000 €;52.0;INSEE–DGFiP FiLoSoFi 2021 (répartition RFR agrégée aux bornes demandées);national;https://www.insee.fr/fr/statistiques/6680185;1-1
+Income;25 000-49 999 €;31.0;INSEE–DGFiP FiLoSoFi 2021 (répartition RFR agrégée aux bornes demandées);national;https://www.insee.fr/fr/statistiques/6680185;2-2
+Income;50 000-74 999 €;9.0;INSEE–DGFiP FiLoSoFi 2021 (répartition RFR agrégée aux bornes demandées);national;https://www.insee.fr/fr/statistiques/6680185;3-3
+Income;75 000-99 999 EUR;4.0;INSEE–DGFiP FiLoSoFi 2021 (répartition RFR agrégée aux bornes demandées);national;https://www.insee.fr/fr/statistiques/6680185;4-4
+Income;≥ 100000 €;4.0;INSEE–DGFiP FiLoSoFi 2021 (répartition RFR agrégée aux bornes demandées);national;https://www.insee.fr/fr/statistiques/6680185;5-5
+Place of residence;Urban;100.0;INSEE – Unité urbaine 2020 de Montbrison;commune;https://www.insee.fr/fr/metadonnees/geographie/unite-urbaine-2020/42401-montbrison;1-1
+Place of residence;Rural;0.0;INSEE – Unité urbaine 2020 de Montbrison;commune;https://www.insee.fr/fr/metadonnees/geographie/unite-urbaine-2020/42401-montbrison;2-2
+MaritalStatus;Single;31.0;INSEE – RP2022 (FAM G4);département (proxy si non dispo communal);https://www.insee.fr/fr/statistiques/2011101?geo=COM-42147;1-1
+MaritalStatus;Married/Civil Union;52.0;INSEE – RP2022 (FAM G4);département (proxy si non dispo communal);https://www.insee.fr/fr/statistiques/2011101?geo=COM-42147;2-2
+MaritalStatus;Divorced/Separated;8.0;INSEE – RP2022 (FAM G4);département (proxy si non dispo communal);https://www.insee.fr/fr/statistiques/2011101?geo=COM-42147;3-3
+MaritalStatus;Widowed;9.0;INSEE – RP2022 (FAM G4);département (proxy si non dispo communal);https://www.insee.fr/fr/statistiques/2011101?geo=COM-42147;4-4
+Householdsize;1 person;35.0;INSEE – RP2022 (FAM T1);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42147;1-1
+Householdsize;2 people;34.0;INSEE – RP2022 (Comparaisons régionales Auvergne–Rhône–Alpes appliquées au reliquat);régional (répartition appliquée localement);https://www.insee.fr/fr/statistiques/6240560?geo=REG-84;2-2
+Householdsize;3 or more people;31.0;INSEE – RP2022 (Comparaisons régionales Auvergne–Rhône–Alpes appliquées au reliquat);régional (répartition appliquée localement);https://www.insee.fr/fr/statistiques/6240560?geo=REG-84;3-3
+Nationality;French;91.2;INSEE – Étrangers par groupe de nationalités (2024) + hypothèse part d'étrangers France;national;https://www.insee.fr/fr/statistiques/3353438;1-1
+Nationality;Foreign (Europe);3.11;INSEE – Étrangers par groupe de nationalités (2024);national;https://www.insee.fr/fr/statistiques/3353438;2-2
+Nationality;Foreign (Africa);4.04;INSEE – Étrangers par groupe de nationalités (2024);national;https://www.insee.fr/fr/statistiques/3353438;3-3
+Nationality;Non-citizen (other regions);1.66;INSEE – Étrangers par groupe de nationalités (2024);national;https://www.insee.fr/fr/statistiques/3353438;4-4
+Occupation;Farmers;0.4;INSEE – RP2022 (POP T5);département (proxy si non dispo communal);https://www.insee.fr/fr/statistiques/2011101?geo=COM-42147;1-1
+Occupation;Artisans/Traders;3.2;INSEE – RP2022 (POP T5);département (proxy si non dispo communal);https://www.insee.fr/fr/statistiques/2011101?geo=COM-42147;2-2
+Occupation;Professionals/Intellectuals;7.0;INSEE – RP2022 (POP T5);département (proxy si non dispo communal);https://www.insee.fr/fr/statistiques/2011101?geo=COM-42147;3-3
+Occupation;Intermediate occupations;12.5;INSEE – RP2022 (POP T5);département (proxy si non dispo communal);https://www.insee.fr/fr/statistiques/2011101?geo=COM-42147;4-4
+Occupation;Employees;15.6;INSEE – RP2022 (POP T5);département (proxy si non dispo communal);https://www.insee.fr/fr/statistiques/2011101?geo=COM-42147;5-5
+Occupation;Laborers;12.3;INSEE – RP2022 (POP T5);département (proxy si non dispo communal);https://www.insee.fr/fr/statistiques/2011101?geo=COM-42147;6-6
+Occupation;Unemployed;0.0;INSEE – RP2022 (POP T5) (catégorie non publiée séparément);note;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42147;7-7
+Occupation;Retired;38.5;INSEE – RP2022 (POP T5);département (proxy si non dispo communal);https://www.insee.fr/fr/statistiques/2011101?geo=COM-42147;8-8
+Occupation;Inactive ;10.5;INSEE – RP2022 (POP T5);département (proxy si non dispo communal);https://www.insee.fr/fr/statistiques/2011101?geo=COM-42147;9-9
+Ideology;Left;28.85;Ministère de l’Intérieur – Présidentielle 2022 (1er tour, Montbrison) agrégé par blocs;commune;https://www.archives-resultats-elections.interieur.gouv.fr/resultats/presidentielle-2022/084/042/042147.php;1-1
+Ideology;Central;30.07;Ministère de l’Intérieur – Présidentielle 2022 (1er tour, Montbrison) agrégé par blocs;commune;https://www.archives-resultats-elections.interieur.gouv.fr/resultats/presidentielle-2022/084/042/042147.php;2-2
+Ideology;Right;38.29;Ministère de l’Intérieur – Présidentielle 2022 (1er tour, Montbrison) agrégé par blocs;commune;https://www.archives-resultats-elections.interieur.gouv.fr/resultats/presidentielle-2022/084/042/042147.php;3-3
+Ideology;Non-ideological;2.79;Ministère de l’Intérieur – Présidentielle 2022 (1er tour, Montbrison) agrégé par blocs;commune;https://www.archives-resultats-elections.interieur.gouv.fr/resultats/presidentielle-2022/084/042/042147.php;4-4
+Ethnicity;No migration background;82.0;INSEE – Population selon le pays de naissance des parents (2021, France);national;https://www.insee.fr/fr/statistiques/2381474;1-1
+Ethnicity;Origin Europe;5.0;INSEE – Population selon le pays de naissance des parents (2021, France);national;https://www.insee.fr/fr/statistiques/2381474;2-2
+Ethnicity;African Origin;9.0;INSEE – Population selon le pays de naissance des parents (2021, France);national;https://www.insee.fr/fr/statistiques/2381474;3-3
+Ethnicity;Origin other regions;4.0;INSEE – Population selon le pays de naissance des parents (2021, France);national;https://www.insee.fr/fr/statistiques/2381474;4-4
+MBTI;ISTJ;12.5;MBTI distribution estimates;national;https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator;1-1
+MBTI;ISFJ;11.5;MBTI distribution estimates;national;https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator;2-2
+MBTI;INFJ;2.0;MBTI distribution estimates;national;https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator;3-3
+MBTI;INTJ;3.0;MBTI distribution estimates;national;https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator;4-4
+MBTI;ISTP;5.0;MBTI distribution estimates;national;https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator;5-5
+MBTI;ISFP;7.0;MBTI distribution estimates;national;https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator;6-6
+MBTI;INFP;4.5;MBTI distribution estimates;national;https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator;7-7
+MBTI;INTP;4.0;MBTI distribution estimates;national;https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator;8-8
+MBTI;ESTP;4.5;MBTI distribution estimates;national;https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator;9-9
+MBTI;ESFP;6.5;MBTI distribution estimates;national;https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator;10-10
+MBTI;ENFP;7.0;MBTI distribution estimates;national;https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator;11-11
+MBTI;ENTP;4.5;MBTI distribution estimates;national;https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator;12-12
+MBTI;ESTJ;10.0;MBTI distribution estimates;national;https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator;13-13
+MBTI;ESFJ;11.0;MBTI distribution estimates;national;https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator;14-14
+MBTI;ENFJ;3.5;MBTI distribution estimates;national;https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator;15-15
+MBTI;ENTJ;3.5;MBTI distribution estimates;national;https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator;16-16
