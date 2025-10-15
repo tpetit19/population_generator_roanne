@@ -1,0 +1,233 @@
+{
+    "AGE": {
+        "type": "distribution_bins",
+        "bins": [
+            "1-1",
+            "2-2",
+            "3-3",
+            "4-4",
+            "5-5"
+        ],
+        "distribution_percentages": [
+            15.8,
+            17.33,
+            21.46,
+            25.35,
+            20.05
+        ],
+        "distribution": "__NONE__"
+    },
+    "GENDER": {
+        "type": "distribution_bins",
+        "bins": [
+            "1-1",
+            "2-2",
+            "3-3"
+        ],
+        "distribution_percentages": [
+            49.18,
+            50.82,
+            0.0
+        ],
+        "distribution": "__NONE__"
+    },
+    "EDUCATION": {
+        "type": "distribution_bins",
+        "bins": [
+            "1-1",
+            "2-2",
+            "3-3",
+            "4-4",
+            "5-5"
+        ],
+        "distribution_percentages": [
+            34.77,
+            30.37,
+            16.78,
+            8.79,
+            9.29
+        ],
+        "distribution": "__NONE__"
+    },
+    "INCOME": {
+        "type": "distribution_bins",
+        "bins": [
+            "1-1",
+            "2-2",
+            "3-3",
+            "4-4",
+            "5-5"
+        ],
+        "distribution_percentages": [
+            52.0,
+            31.0,
+            9.0,
+            4.0,
+            4.0
+        ],
+        "distribution": "__NONE__"
+    },
+    "PLACEOFRESIDENCE": {
+        "type": "distribution_bins",
+        "bins": [
+            "1-1",
+            "2-2"
+        ],
+        "distribution_percentages": [
+            100.0,
+            0.0
+        ],
+        "distribution": "__NONE__"
+    },
+    "MARITALSTATUS": {
+        "type": "distribution_bins",
+        "bins": [
+            "1-1",
+            "2-2",
+            "3-3",
+            "4-4"
+        ],
+        "distribution_percentages": [
+            35.74,
+            47.25,
+            7.11,
+            9.91
+        ],
+        "distribution": "__NONE__"
+    },
+    "HOUSEHOLDSIZE": {
+        "type": "distribution_bins",
+        "bins": [
+            "1-1",
+            "2-2",
+            "3-3"
+        ],
+        "distribution_percentages": [
+            40.8,
+            31.1,
+            28.1
+        ],
+        "distribution": "__NONE__"
+    },
+    "NATIONALITY": {
+        "type": "distribution_bins",
+        "bins": [
+            "1-1",
+            "2-2",
+            "3-3",
+            "4-4"
+        ],
+        "distribution_percentages": [
+            91.2,
+            3.11,
+            4.04,
+            1.65
+        ],
+        "distribution": "__NONE__"
+    },
+    "OCCUPATION": {
+        "type": "distribution_bins",
+        "bins": [
+            "1-1",
+            "2-2",
+            "3-3",
+            "4-4",
+            "5-5",
+            "6-6",
+            "7-7",
+            "8-8",
+            "9-9"
+        ],
+        "distribution_percentages": [
+            0.4,
+            3.8,
+            4.3,
+            7.8,
+            15.5,
+            17.5,
+            0.0,
+            39.5,
+            11.2
+        ],
+        "distribution": "__NONE__"
+    },
+    "IDEOLOGY": {
+        "type": "distribution_bins",
+        "bins": [
+            "1-1",
+            "2-2",
+            "3-3",
+            "4-4"
+        ],
+        "distribution_percentages": [
+            35.4,
+            30.6,
+            32.1,
+            1.9
+        ],
+        "distribution": "__NONE__"
+    },
+    "ETHNICITY": {
+        "type": "distribution_bins",
+        "bins": [
+            "1-1",
+            "2-2",
+            "3-3",
+            "4-4"
+        ],
+        "distribution_percentages": [
+            82.0,
+            5.0,
+            9.0,
+            4.0
+        ],
+        "distribution": "__NONE__"
+    },
+    "MBTI": {
+        "type": "distribution_bins",
+        "bins": [
+            "1-1",
+            "2-2",
+            "3-3",
+            "4-4",
+            "5-5",
+            "6-6",
+            "7-7",
+            "8-8",
+            "9-9",
+            "10-10",
+            "11-11",
+            "12-12",
+            "13-13",
+            "14-14",
+            "15-15",
+            "16-16"
+        ],
+        "distribution_percentages": [
+            12.5,
+            11.5,
+            2.0,
+            3.0,
+            5.0,
+            7.0,
+            4.5,
+            4.0,
+            4.5,
+            6.5,
+            7.0,
+            4.5,
+            10.0,
+            11.0,
+            3.5,
+            3.5
+        ],
+        "distribution": "__NONE__"
+    },
+    "NOM": {
+        "type": "independent",
+        "file": "data/noms.csv",
+        "column": "PRENOM",
+        "sample": "__ALL__",
+        "distribution": "__ALLDIFFERENT__"
+    }
+}

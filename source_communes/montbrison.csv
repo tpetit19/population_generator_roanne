@@ -1,9 +1,9 @@
 Characteristic;Category;Distribution;Dataset;Scope;URL;Index
-Age;15-29 years;17.0;INSEE – RP2022 (POP G2);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42147;1-1
-Age;30-44 years old;20.0;INSEE – RP2022 (POP G2);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42147;2-2
-Age;45-59 years;21.0;INSEE – RP2022 (POP G2);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42147;3-3
-Age;60-74 years;19.0;INSEE – RP2022 (POP G2);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42147;4-4
-Age;75 years and older;13.0;INSEE – RP2022 (POP G2);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42147;5-5
+Age;15-29 years;18.89;INSEE – RP2022 (POP G2);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42147;1-1
+Age;30-44 years old;22.22;INSEE – RP2022 (POP G2);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42147;2-2
+Age;45-59 years;23.33;INSEE – RP2022 (POP G2);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42147;3-3
+Age;60-74 years;21.11;INSEE – RP2022 (POP G2);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42147;4-4
+Age;75 years and older;14.44;INSEE – RP2022 (POP G2);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42147;5-5
 Gender;Male;47.0;INSEE – RP2022 (POP T3);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42147;1-1
 Gender;Woman;53.0;INSEE – RP2022 (POP T3);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42147;2-2
 Gender;Other;0.0;Non défini par l'INSEE (binaire seulement). Valeur mise à 0 pour sommer à 100.;commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42147;3-3

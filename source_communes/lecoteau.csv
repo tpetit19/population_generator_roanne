@@ -1,17 +1,17 @@
 Characteristic;Category;Distribution;Dataset;Scope;URL;Index
-Age;15-29 years;13.4;INSEE – RP2022 (POP G2);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;1-1
-Age;30-44 years old;13.0;INSEE – RP2022 (POP G2);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;2-2
-Age;45-59 years;18.8;INSEE – RP2022 (POP G2);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;3-3
-Age;60-74 years;21.9;INSEE – RP2022 (POP G2);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;4-4
-Age;75 years and older;20.4;INSEE – RP2022 (POP G2);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;5-5
+Age;15-29 years;15.31;INSEE – RP2022 (POP G2);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;1-1
+Age;30-44 years old;14.86;INSEE – RP2022 (POP G2);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;2-2
+Age;45-59 years;21.49;INSEE – RP2022 (POP G2);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;3-3
+Age;60-74 years;25.03;INSEE – RP2022 (POP G2);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;4-4
+Age;75 years and older;23.31;INSEE – RP2022 (POP G2);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;5-5
 Gender;Male;44.75;INSEE – RP2022 (POP T3);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;1-1
 Gender;Woman;55.25;INSEE – RP2022 (POP T3);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;2-2
 Gender;Other;0.0;Non défini par l'INSEE (binaire seulement). Valeur mise à 0 pour sommer à 100.;commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;3-3
-Education;No diploma or CEP;29.2;INSEE – RP2022 (FOR T2);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;1-1
-Education;Vocational Certificate;28.6;INSEE – RP2022 (FOR T2);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;2-2
-Education;High School Diploma;15.3;INSEE – RP2022 (FOR T2);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;3-3
-Education;Associate Degree;10.1;INSEE – RP2022 (FOR T2);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;4-4
-Education;Bachelor's degree or higher;11.3;INSEE – RP2022 (FOR T2);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;5-5
+Education;No diploma or CEP;30.90;INSEE – RP2022 (FOR T2);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;1-1
+Education;Vocational Certificate;30.26;INSEE – RP2022 (FOR T2);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;2-2
+Education;High School Diploma;16.19;INSEE – RP2022 (FOR T2);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;3-3
+Education;Associate Degree;10.69;INSEE – RP2022 (FOR T2);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;4-4
+Education;Bachelor's degree or higher;11.96;INSEE – RP2022 (FOR T2);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;5-5
 Income;Under 25000 €;52.0;INSEE–DGFiP FiLoSoFi 2021 (revenu disponible médian, distribution RFR);national;https://www.insee.fr/fr/statistiques/6680185;1-1
 Income;25 000-49 999 €;31.0;INSEE–DGFiP FiLoSoFi 2021 (revenu disponible médian, distribution RFR);national;https://www.insee.fr/fr/statistiques/6680185;2-2
 Income;50 000-74 999 €;9.0;INSEE–DGFiP FiLoSoFi 2021 (revenu disponible médian, distribution RFR);national;https://www.insee.fr/fr/statistiques/6680185;3-3
@@ -30,15 +30,15 @@ Nationality;French;91.2;INSEE – Étrangers par groupe de nationalités (2024) 
 Nationality;Foreign (Europe);3.11;INSEE – Étrangers par groupe de nationalités (2024);national;https://www.insee.fr/fr/statistiques/3353438;2-2
 Nationality;Foreign (Africa);4.04;INSEE – Étrangers par groupe de nationalités (2024);national;https://www.insee.fr/fr/statistiques/3353438;3-3
 Nationality;Non-citizen (other regions);1.66;INSEE – Étrangers par groupe de nationalités (2024);national;https://www.insee.fr/fr/statistiques/3353438;4-4
-Occupation;Farmers;0.1;INSEE – RP2022 (POP T5);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;1-1
-Occupation;Artisans/Traders;2.6;INSEE – RP2022 (POP T5);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;2-2
-Occupation;Professionals/Intellectuals;5.4;INSEE – RP2022 (POP T5);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;3-3
-Occupation;Intermediate occupations;11.4;INSEE – RP2022 (POP T5);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;4-4
-Occupation;Employees;14.3;INSEE – RP2022 (POP T5);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;5-5
-Occupation;Laborers;12.7;INSEE – RP2022 (POP T5);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;6-6
-Occupation;Unemployed;10.9;INSEE – RP2022 (POP T5);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;7-7
-Occupation;Retired;42.5;INSEE – RP2022 (POP T5);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;8-8
-Occupation;Inactive ;10.9;INSEE – RP2022 (POP T5);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;9-9
+Occupation;Farmers;0.09;INSEE – RP2022 (POP T5);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;1-1
+Occupation;Artisans/Traders;2.35;INSEE – RP2022 (POP T5);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;2-2
+Occupation;Professionals/Intellectuals;4.87;INSEE – RP2022 (POP T5);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;3-3
+Occupation;Intermediate occupations;10.29;INSEE – RP2022 (POP T5);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;4-4
+Occupation;Employees;12.91;INSEE – RP2022 (POP T5);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;5-5
+Occupation;Laborers;11.46;INSEE – RP2022 (POP T5);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;6-6
+Occupation;Unemployed;9.84;INSEE – RP2022 (POP T5);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;7-7
+Occupation;Retired;38.36;INSEE – RP2022 (POP T5);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;8-8
+Occupation;Inactive;9.84;INSEE – RP2022 (POP T5);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;9-9
 Ideology;Left;24.97;Ministère de l’Intérieur – Présidentielle 2022 (1er tour, Le Coteau);commune;https://www.resultats-elections.interieur.gouv.fr/presidentielle-2022/069/042071.html;1-1
 Ideology;Central;31.91;Ministère de l’Intérieur – Présidentielle 2022 (1er tour, Le Coteau);commune;https://www.resultats-elections.interieur.gouv.fr/presidentielle-2022/069/042071.html;2-2
 Ideology;Right;41.15;Ministère de l’Intérieur – Présidentielle 2022 (1er tour, Le Coteau);commune;https://www.resultats-elections.interieur.gouv.fr/presidentielle-2022/069/042071.html;3-3
