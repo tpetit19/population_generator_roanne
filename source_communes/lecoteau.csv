@@ -1,0 +1,65 @@
+Characteristic;Category;Distribution;Dataset;Scope;URL;Index
+Age;15-29 years;13.4;INSEE – RP2022 (POP G2);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;1-1
+Age;30-44 years old;13.0;INSEE – RP2022 (POP G2);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;2-2
+Age;45-59 years;18.8;INSEE – RP2022 (POP G2);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;3-3
+Age;60-74 years;21.9;INSEE – RP2022 (POP G2);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;4-4
+Age;75 years and older;20.4;INSEE – RP2022 (POP G2);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;5-5
+Gender;Male;44.75;INSEE – RP2022 (POP T3);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;1-1
+Gender;Woman;55.25;INSEE – RP2022 (POP T3);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;2-2
+Gender;Other;0.0;Non défini par l'INSEE (binaire seulement). Valeur mise à 0 pour sommer à 100.;commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;3-3
+Education;No diploma or CEP;29.2;INSEE – RP2022 (FOR T2);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;1-1
+Education;Vocational Certificate;28.6;INSEE – RP2022 (FOR T2);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;2-2
+Education;High School Diploma;15.3;INSEE – RP2022 (FOR T2);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;3-3
+Education;Associate Degree;10.1;INSEE – RP2022 (FOR T2);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;4-4
+Education;Bachelor's degree or higher;11.3;INSEE – RP2022 (FOR T2);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;5-5
+Income;Under 25000 €;52.0;INSEE–DGFiP FiLoSoFi 2021 (revenu disponible médian, distribution RFR);national;https://www.insee.fr/fr/statistiques/6680185;1-1
+Income;25 000-49 999 €;31.0;INSEE–DGFiP FiLoSoFi 2021 (revenu disponible médian, distribution RFR);national;https://www.insee.fr/fr/statistiques/6680185;2-2
+Income;50 000-74 999 €;9.0;INSEE–DGFiP FiLoSoFi 2021 (revenu disponible médian, distribution RFR);national;https://www.insee.fr/fr/statistiques/6680185;3-3
+Income;75 000-99 999 EUR;4.0;INSEE–DGFiP FiLoSoFi 2021 (revenu disponible médian, distribution RFR);national;https://www.insee.fr/fr/statistiques/6680185;4-4
+Income;≥ 100000 €;4.0;INSEE–DGFiP FiLoSoFi 2021 (revenu disponible médian, distribution RFR);national;https://www.insee.fr/fr/statistiques/6680185;5-5
+Place of residence;Urban;100.0;INSEE – Unité urbaine 2020 de Roanne;commune;https://www.insee.fr/fr/metadonnees/geographie/commune/42071-le-coteau;1-1
+Place of residence;Rural;0.0;INSEE – Unité urbaine 2020 de Roanne;commune;https://www.insee.fr/fr/metadonnees/geographie/commune/42071-le-coteau;2-2
+MaritalStatus;Single;36.7;INSEE – RP2022 (FAM G4);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;1-1
+MaritalStatus;Married/Civil Union;40.3;INSEE – RP2022 (FAM G4);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;2-2
+MaritalStatus;Divorced/Separated;10.9;INSEE – RP2022 (FAM G4);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;3-3
+MaritalStatus;Widowed;12.1;INSEE – RP2022 (FAM G4);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;4-4
+Householdsize;1 person;52.3;INSEE – RP2022 (FAM T1 & comparaisons régionales);commune + régional (répartition);https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;1-1
+Householdsize;2 people;24.95;INSEE – RP2022 (Comparaisons régionales Auvergne–Rhône–Alpes);régional (répartition appliquée localement);https://www.insee.fr/fr/statistiques/6240560?geo=REG-84;2-2
+Householdsize;3 or more people;22.75;INSEE – RP2022 (Comparaisons régionales Auvergne–Rhône–Alpes);régional (répartition appliquée localement);https://www.insee.fr/fr/statistiques/6240560?geo=REG-84;3-3
+Nationality;French;91.2;INSEE – Étrangers par groupe de nationalités (2024) + hypothèse part d'étrangers France;national;https://www.insee.fr/fr/statistiques/3353438;1-1
+Nationality;Foreign (Europe);3.11;INSEE – Étrangers par groupe de nationalités (2024);national;https://www.insee.fr/fr/statistiques/3353438;2-2
+Nationality;Foreign (Africa);4.04;INSEE – Étrangers par groupe de nationalités (2024);national;https://www.insee.fr/fr/statistiques/3353438;3-3
+Nationality;Non-citizen (other regions);1.66;INSEE – Étrangers par groupe de nationalités (2024);national;https://www.insee.fr/fr/statistiques/3353438;4-4
+Occupation;Farmers;0.1;INSEE – RP2022 (POP T5);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;1-1
+Occupation;Artisans/Traders;2.6;INSEE – RP2022 (POP T5);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;2-2
+Occupation;Professionals/Intellectuals;5.4;INSEE – RP2022 (POP T5);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;3-3
+Occupation;Intermediate occupations;11.4;INSEE – RP2022 (POP T5);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;4-4
+Occupation;Employees;14.3;INSEE – RP2022 (POP T5);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;5-5
+Occupation;Laborers;12.7;INSEE – RP2022 (POP T5);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;6-6
+Occupation;Unemployed;10.9;INSEE – RP2022 (POP T5);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;7-7
+Occupation;Retired;42.5;INSEE – RP2022 (POP T5);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;8-8
+Occupation;Inactive ;10.9;INSEE – RP2022 (POP T5);commune;https://www.insee.fr/fr/statistiques/2011101?geo=COM-42071;9-9
+Ideology;Left;24.97;Ministère de l’Intérieur – Présidentielle 2022 (1er tour, Le Coteau);commune;https://www.resultats-elections.interieur.gouv.fr/presidentielle-2022/069/042071.html;1-1
+Ideology;Central;31.91;Ministère de l’Intérieur – Présidentielle 2022 (1er tour, Le Coteau);commune;https://www.resultats-elections.interieur.gouv.fr/presidentielle-2022/069/042071.html;2-2
+Ideology;Right;41.15;Ministère de l’Intérieur – Présidentielle 2022 (1er tour, Le Coteau);commune;https://www.resultats-elections.interieur.gouv.fr/presidentielle-2022/069/042071.html;3-3
+Ideology;Non-ideological;1.97;Ministère de l’Intérieur – Présidentielle 2022 (1er tour, Le Coteau);commune;https://www.resultats-elections.interieur.gouv.fr/presidentielle-2022/069/042071.html;4-4
+Ethnicity;No migration background;82.0;INSEE – Population selon le pays de naissance des parents (2021, France);national;https://www.insee.fr/fr/statistiques/2381474;1-1
+Ethnicity;Origin Europe;5.0;INSEE – Population selon le pays de naissance des parents (2021, France);national;https://www.insee.fr/fr/statistiques/2381474;2-2
+Ethnicity;African Origin;9.0;INSEE – Population selon le pays de naissance des parents (2021, France);national;https://www.insee.fr/fr/statistiques/2381474;3-3
+Ethnicity;Origin other regions;4.0;INSEE – Population selon le pays de naissance des parents (2021, France);national;https://www.insee.fr/fr/statistiques/2381474;4-4
+MBTI;ISTJ;12.5;MBTI distribution estimates;national;https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator;1-1
+MBTI;ISFJ;11.5;MBTI distribution estimates;national;https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator;2-2
+MBTI;INFJ;2.0;MBTI distribution estimates;national;https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator;3-3
+MBTI;INTJ;3.0;MBTI distribution estimates;national;https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator;4-4
+MBTI;ISTP;5.0;MBTI distribution estimates;national;https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator;5-5
+MBTI;ISFP;7.0;MBTI distribution estimates;national;https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator;6-6
+MBTI;INFP;4.5;MBTI distribution estimates;national;https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator;7-7
+MBTI;INTP;4.0;MBTI distribution estimates;national;https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator;8-8
+MBTI;ESTP;4.5;MBTI distribution estimates;national;https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator;9-9
+MBTI;ESFP;6.5;MBTI distribution estimates;national;https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator;10-10
+MBTI;ENFP;7.0;MBTI distribution estimates;national;https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator;11-11
+MBTI;ENTP;4.5;MBTI distribution estimates;national;https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator;12-12
+MBTI;ESTJ;10.0;MBTI distribution estimates;national;https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator;13-13
+MBTI;ESFJ;11.0;MBTI distribution estimates;national;https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator;14-14
+MBTI;ENFJ;3.5;MBTI distribution estimates;national;https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator;15-15
+MBTI;ENTJ;3.5;MBTI distribution estimates;national;https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator;16-16
