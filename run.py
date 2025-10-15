@@ -15,8 +15,8 @@
 import generate_population
 
 def run():
-    JSON_DIR = "json"
-    SOURCE_DIR = "source"
+    JSON_DIR = "json_communes"
+    SOURCE_DIR = "source_communes"
     BATCH_SIZE = 5
     TOTAL_BATCHES = 60
     MAX_TIME_SECONDS = 30

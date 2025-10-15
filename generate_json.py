@@ -13,8 +13,8 @@ def normalize_string(s):
                                                                                                                   "")
 
 # Répertoires
-SOURCE_DIR = "source"
-JSON_DIR = "json"
+SOURCE_DIR = "source_communes"
+JSON_DIR = "json_communes"
 CONSTRAINT_DIR = "constraint_data"
 DATA_DIR = "data"
 SEPARATOR = ";"
